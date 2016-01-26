@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coursera Data Science Specialization Course 9 Project Documentation
 
 ---
@@ -15,3 +16,6 @@ The sidebar on the left has a few options that allow the user to manipulate the 
 - The "R-squared" box displays the R-squared value for the linear regression through the data points from the variable selected.
 
 Manipulating any of the first three options listed above will update the plot automatically.
+=======
+# Coursera_Developing_Data_Products
+>>>>>>> 88f45abaa2389f61c927685ecc635ca09a79770f
